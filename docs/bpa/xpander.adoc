@@ -8,16 +8,16 @@ Xpander memungkinkan tim operasional untuk melakukan pendataan status
 order dari Partner ataupun Biller.Untuk saat ini, Platform Xpander hanya
 bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
-// === Anggota Tim Xpander
+=== Anggota Tim Xpander
 
-// |===
-// |*Name* |*Role* |*Email*
-// |Pipit Puspitasari |Product Owner |pipit@alterra.id
-// |Ananto Eko Hendarto |Developer Manager |anton@alterra.id
-// |Kurniawan Eko Wasono |Lead Developer |iwan@alterra.id
-// |Johanes Paulus Giovani Putra |Lead Quality Engineer |johanes@alterra.id
-// |Pipit Puspitasari |Ex Lead System Analyst |pipit@alterra.id
-// |===
+|===
+|*Name* |*Role* |*Email*
+|Pipit Puspitasari |Product Owner |pipit@alterra.id
+|Ananto Eko Hendarto |Developer Manager |anton@alterra.id
+|Kurniawan Eko Wasono |Lead Developer |iwan@alterra.id
+|Johanes Paulus Giovani Putra |Lead Quality Engineer |johanes@alterra.id
+|Pipit Puspitasari |Ex Lead System Analyst |pipit@alterra.id
+|===
 
 === Informasi Teknis
 
@@ -35,6 +35,6 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
 <<xpander/xpander-katalog-proses.adoc#, Katalog Process>>
 
-<<xpander/xpander.adoc#, User Guide>>
+// <<xpander/xpander.adoc#, User Guide>>
 
 <<xpander/adr-template/source_architecture_template.adoc#, Documen ADR>>
