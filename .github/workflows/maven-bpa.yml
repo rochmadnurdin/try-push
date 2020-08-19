@@ -2,8 +2,8 @@ name: Confluence Publisher Telco
 
 on:
   push:
-     tags: 
-       - 'v*-bpa'
+     branches: [master]
+      #  - 'v*-bpa'
 jobs:
     build:
   
