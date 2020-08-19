@@ -1,4 +1,4 @@
-name: Confluence Publisher Telco
+name: Confluence Publisher BPA
 
 on:
   push:
