@@ -37,4 +37,4 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
 // <<xpander/xpander.adoc#, User Guide>>
 
-<<xpander/adr-template/source_architecture_template.adoc#, Document ADR Xpander>>
+<<xpander/adr-doc.adoc#, Document ADR Xpander>>
