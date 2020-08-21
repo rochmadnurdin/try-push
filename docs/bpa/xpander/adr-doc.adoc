@@ -9,7 +9,7 @@ The following is an example of an adr document  template
 
 == [ADR-0001] Example Decision
 
-* Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
+// * Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
 * Deciders: [list everyone involved in the decision]
 * Date: [YYYY-MM-DD when the decision was last updated]
 
@@ -66,8 +66,8 @@ Argument why we choose this options. What kind of big benefit we get for that.
 
 == References, Implementations and Notes
 
-* [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records[])
-* [Implementation Reference of ADR](decisions/0000-global-adr.md)
+* (https://lmgtfy.com/?q=architecture-decision-records[Example of ADR])
+
 
 Notes:
 
