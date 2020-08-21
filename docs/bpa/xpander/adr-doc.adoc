@@ -1,4 +1,5 @@
-
+:toc:
+:toc-title: 
 
 = ASCII ADR Template
 
@@ -9,7 +10,7 @@ The following is an example of an adr document  template
 
 == [ADR-0001] Example Decision
 
-// * Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
+* Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
 * Deciders: [list everyone involved in the decision]
 * Date: [YYYY-MM-DD when the decision was last updated]
 
@@ -34,9 +35,9 @@ Good or bad implications because the decisions. For example: The system must fol
 
 place a link related to the adr related decesion file
 
-// * [ADR-0000 Old Decision](0001-old-decision.md)
-// * [ADR-0002 New Decision](0002-new-decision.md)
-// * [ADR-0003 Other Decision](0002-other-decision.md)
+* [ADR-0000 Old Decision](0001-old-decision.md)
+* [ADR-0002 New Decision](0002-new-decision.md)
+* [ADR-0003 Other Decision](0002-other-decision.md)
 
 // Details Section is optional if the decision is crystal clear. But important if a decision need intense discussion or some comparison.
 
