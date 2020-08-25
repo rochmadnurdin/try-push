@@ -1,5 +1,5 @@
-== Development (System Name)
+= Development (System Name)
 
 Berisi Git Flow dan langkah development sistem.
 
-=== Development Step
+== Development Step

@@ -1,4 +1,4 @@
-== System URL (System Name)
+= System URL (System Name)
 
 Saat ini sistem dalam tahap ___________, informasi akses dapat dilihat
 melalui tabel di bawah ini. Gunakan alias, username, dan password yang

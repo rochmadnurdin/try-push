@@ -1,4 +1,4 @@
-== Architecture (System Name)
+= Architecture (System Name)
 
 === Related System
 

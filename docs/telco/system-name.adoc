@@ -1,12 +1,12 @@
-== System Name
+= System Name
 
-=== Overview
+== Overview
 
 Berisi deskripsi, etimologi penamaan, dan fungsi sistem yang dijabarkan
 secara singkat. Sekaligus memuat informasi tentang tujuan pengembangan
 sistem.
 
-=== Team Involved
+== Team Involved
 
 Berikut adalah nama-nama yang terlibat dalam pengembangan sistem
 ______________. Masing-masing sudah dilengkapi dengan alamat email yang
@@ -18,7 +18,7 @@ bisa dihubungi jika diperlukan.
 | | |
 |===
 
-=== Technical Information
+== Technical Information
 
 Berisi informasi teknis tentang sistem, adapun informasi yang
 dicantumkan harus menyesuaikan dengan kebutuhan.
@@ -38,7 +38,7 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 <<system-name/flow-wire-systemname.adoc#, Flow and Wireframe System Name>>
 
 
-=== Onboarding Information
+== Onboarding Information
 
 <<system-name/dev-onboarding-systemname.adoc#, Developer Onboarding Sytem Name>>
 
@@ -46,7 +46,7 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 
 <<system-name/naming-convention-systemname.adoc#, Naming Convention System Name>>
 
-=== Dokumentasi
+== Dokumentasi
 Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen yang biasa dimasukkan di dalamnya. Anda dapat memasukkan external link (Google Doc, Horven, Swagger, maupun lainnya dalam list dokumen berikut:
 
 * <<system-name/adr-doc-systemname.adoc#, Document ADR  System Name>>
