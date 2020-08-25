@@ -1,9 +1,0 @@
-= ADR Xpander
-
-
-|===
-|*Document Title* |*Remark/Explanation*
-|001-ADR Decision A (link to template)|<<adr-doc/adr-template.adoc#, Template>>
-|002-ADR Decision B| 
-
-|===

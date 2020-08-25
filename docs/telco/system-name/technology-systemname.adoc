@@ -1,0 +1,11 @@
+== Technology (System Name)
+
+|===
+|*Spesification* |*Name*
+|OS |
+|Web Server|
+|Programming Language |
+|Framework|
+|Container|
+|Proxy|
+|===

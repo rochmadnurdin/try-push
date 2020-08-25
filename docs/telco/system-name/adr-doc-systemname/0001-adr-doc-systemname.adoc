@@ -1,21 +1,16 @@
-= Ascii ADR Template
+:toc:
+:toc-title: 
 
 
-== [ADR-0001] Example Decision
+= [ADR-0001] Taken Decision
 
-* Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
+ADR (Architecture Decision Record) is a document that captures an important architectural decision made along with its context and consequences.
+
+The following is an example of an adr document  template
+
+* Status: [proposed | rejected | accepted | superseded by <<0002-adr-doc-new-decision-systemname.adoc#, ADR 0002 New Decision>>
 * Deciders: [list everyone involved in the decision]
 * Date: [YYYY-MM-DD when the decision was last updated]
-
-//List below is table of content
-
-Summary: [Issue](#issue), [Decision](#decision), [Consequences](#consequences), [Related Decisions](#related-decisions)
-
-Details: [Assumptions](#assumptions), [Constraints](#constraints), [Considered Options](#considered-options), [Arguments](#arguments), [Implications](#implications) <!-- optional -->
-
-[References, Implementations and Notes](#references-implementations-and-notes)  <!-- optional -->
-
----
 
 == Summary
 
@@ -36,15 +31,15 @@ Good or bad implications because the decisions. For example: The system must fol
 
 === Related Decisions
 
-* [ADR-0000 Old Decision](0001-old-decision.md)
-* [ADR-0002 New Decision](0002-new-decision.md)
-* [ADR-0003 Other Decision](0002-other-decision.md)
+Add related ADR Doc on the list
 
----
+* <<0000-adr-doc-old-decision-systemname.adoc#, ADR 0000 Old Decision>>
 
-<!-- 
-    Details Section is optional if the decision is crystal clear. But important if a decision need intense discussion or some comparison.
--->
+* <<0002-adr-doc-new-decision-systemname.adoc#, ADR 0002 New Decision>>
+
+* <<0003-adr-doc-other-decision-systemname.adoc#, ADR 0003 Other Decision>>
+
+ Details Section is optional if the decision is crystal clear. But important if a decision need intense discussion or some comparison.
 
 == Details 
 
@@ -68,14 +63,14 @@ These options are solving the issue, but might not be suit with our constraints
 
 Argument why we choose this options. What kind of big benefit we get for that.
 
----
+
 
 == References, Implementations and Notes
 
-* [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records)
-* [Implementation Reference of ADR](decisions/0000-global-adr.md)
+* [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records[])
+* [Implementation Reference of ADR](decisions/0000-global-adr.adoc)
 
 Notes:
 
 * ADR must easy to read, clear decision, and not longer than 2 pages of A4.
-----
+
