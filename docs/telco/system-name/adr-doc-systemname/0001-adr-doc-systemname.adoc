@@ -39,6 +39,7 @@ Add related ADR Doc on the list
 
 * <<0003-adr-doc-other-decision-systemname.adoc#, ADR 0003 Other Decision>>
 
+
  Details Section is optional if the decision is crystal clear. But important if a decision need intense discussion or some comparison.
 
 == Details 
@@ -68,9 +69,8 @@ Argument why we choose this options. What kind of big benefit we get for that.
 == References, Implementations and Notes
 
 * [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records[])
-* [Implementation Reference of ADR](decisions/0000-global-adr.adoc)
+
 
 Notes:
-
 * ADR must easy to read, clear decision, and not longer than 2 pages of A4.
 
