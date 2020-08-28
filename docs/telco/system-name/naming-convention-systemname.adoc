@@ -1,3 +1,0 @@
-= Naming Convention (System Name)
-
-Berisi aturan penamaan dalam development sistem.
